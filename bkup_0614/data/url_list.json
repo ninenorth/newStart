@@ -1,0 +1,78 @@
+{
+    "listA": [
+        {
+            "title": "ninenorth",
+            "url": "http://www.the9north.com"
+        },
+        {
+            "title": "11st",
+            "url": "http://www.11st.co.kr"
+        },
+        {
+            "title": "9north",
+            "url": "http://www.the9north.com/newstart/"
+        },
+        {
+            "title": "formula1",
+            "url": "https://www.formula1.com/"
+        },
+        {
+            "title": "daum",
+            "url": "http://www.daum.net"
+        },
+        {
+            "title": "youtube",
+            "url": "http://www.youtube.com"
+        },
+        {
+            "title": "gabia",
+            "url": "https://www.gabia.com/"
+        },
+        {
+            "title": "pinterest",
+            "url": "https://www.pinterest.co.kr/"
+        },
+        {
+            "title": "Naver",
+            "url": "http://www.naver.com"
+        },
+        {
+            "title": "danawa",
+            "url": "http://www.danawa.co.kr"
+        }
+    ],
+    "listB": [
+        {
+            "title": "Pitchfork",
+            "url": "https://pitchfork.com"
+        },
+        {
+            "title": "Allmusicguide",
+            "url": "https://www.allmusic.com/"
+        },
+        {
+            "title": "theFader",
+            "url": "http://www.thefader.com/music"
+        },
+        {
+            "title": "MixMag",
+            "url": "http://mixmag.net/"
+        },
+        {
+            "title": "theWire",
+            "url": "https://www.thewire.co.uk/"
+        },
+        {
+            "title": "Beatport",
+            "url": "https://www.beatport.com/"
+        },
+        {
+            "title": "Rateyourmusic",
+            "url": "https://rateyourmusic.com/"
+        },
+        {
+            "title": "Naver",
+            "url": "http://www.naver.com"
+        }
+    ]
+}
