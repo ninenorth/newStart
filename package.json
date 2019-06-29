@@ -4,7 +4,7 @@
   "description": "test new start page",
   "main": "main.js",
   "scripts": {
-    "start": "node main"
+    "start": "node main.js"
   },
   "keywords": [
     "ninenorth"
