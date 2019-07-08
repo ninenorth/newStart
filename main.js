@@ -202,7 +202,7 @@ function appendItem(obj, listname, listdata ){
 };
 
 
-const PORT = process.env.PORT || 5500;
+const PORT = process.env.PORT || 3300;
 server.listen(PORT, () => console.log(`server is running${PORT}`));
 
 
@@ -210,34 +210,6 @@ server.listen(PORT, () => console.log(`server is running${PORT}`));
 
 
 
-
-      // obj.listA.forEach((e, index, elem) => {
-      //   list_a = list_a + ` 
-      //   <li id = "item-${index}">
-      //   <a href="${elem[index].url}" target="blank">${elem[index].title}</a><form name="listA" action="/delurl" method="POST">
-      //   <button name = "listA" type="submit" value = "${index}">del</button></form></li>`
-      // });
-
-      // obj.listB.forEach((e, index, elem) => {
-      //   list_b = list_b + ` 
-      //   <li id = "item-${index}">
-      //   <a href="${elem[index].url}" target="blank">${elem[index].title}</a><form name="listB" action="/delurl" method="POST">
-      //   <button name = "listB" type="submit" value="${index}">del</button></form></li>`
-      // });
-
-      // obj.listC.forEach((e, index, elem) => {
-      //   list_c = list_c + ` 
-      //   <li id = "item-${index}">
-      //   <a href="${elem[index].url}" target="blank">${elem[index].title}</a><form name="listC" action="/delurl" method="POST">
-      //   <button name = "listC" type="submit" value="${index}">del</button></form></li>`
-      // });
-
-      // obj.listD.forEach((e, index, elem) => {
-      //   list_d = list_d + ` 
-      //   <li id = "item-${index}">
-      //   <a href="${elem[index].url}" target="blank">${elem[index].title}</a><form name="listD" action="/delurl" method="POST">
-      //   <button name = "listD" type="submit" value="${index}">del</button></form></li>`
-      // });
 
 
 
