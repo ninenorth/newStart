@@ -2,9 +2,9 @@
   "name": "codest_3",
   "version": "1.0.0",
   "description": "test new start page",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node main.js"
+    "start": "node index.js"
   },
   "keywords": [
     "ninenorth"
@@ -13,6 +13,10 @@
     "internal-ip": "^4.3.0",
     "ip": "^1.1.5",
     "node-static": "0.7.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ninenorth/newStart.git"
   },
   "author": "ian gook",
   "license": "ISC",
