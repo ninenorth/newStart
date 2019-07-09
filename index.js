@@ -12,7 +12,7 @@ var notetxt='';
 const server = http.createServer((req, res) => {
 
   // Dont know why it causes occasional 404...
-  file.serve(req, res);
+  // file.serve(req, res);
   var myLocaIP = internalIp.address();
   if (req.url === '/') {
     let filePath = path.join(__dirname, '/', req.url);
